@@ -33,7 +33,7 @@
 `npm install dotenv`
 # Usage
 
-un the following command at the root of your project and answer the prompted questions:
+Run the following command at the root of your project and answer the prompted questions:
 
 `mysql -u root -p`
 
